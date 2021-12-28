@@ -12,8 +12,8 @@ Vehicle Service Management System - 'Mechanic List' Stored Cross Site Scripting 
 ### CVE : 
 ### Google Dork: N/A
 ### Reference: 
-- https://www.plsanu.com/bludit-3-13-1-categories-stored-cross-site-scripting-xss
-- https://github.com/plsanu/Bludit-3.13.1-Categories-Stored-Cross-Site-Scripting-XSS
+- https://www.plsanu.com/vehicle-service-management-system-mechanic-list-stored-cross-site-scripting-xss
+- https://github.com/plsanu/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS
 
 ### Steps to Reproduce:
 1. Login to the admin panel http://localhost/vehicle_service/admin
