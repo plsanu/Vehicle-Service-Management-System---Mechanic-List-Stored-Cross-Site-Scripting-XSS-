@@ -4,7 +4,7 @@
 ### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
 ### CVE: CVE-2021-46069
 ### CVSS: 4.8 MEDIUM
-### Reference: 
+### References: 
 - https://www.plsanu.com/vehicle-service-management-system-mechanic-list-stored-cross-site-scripting-xss
 - https://nvd.nist.gov/vuln/detail/CVE-2021-46069
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46069
@@ -12,7 +12,7 @@
 ### Description:
 A Stored Cross Site Scripting (XSS) vulnerability exists in Vehicle Service Management System 1.0 via the Mechanic List Section in login panel.
 
-### Steps to Reproduce:
+### Exploit:
 1. Login to the admin panel http://localhost/vehicle_service/admin
 2. Navigate to Mechanic List section and click on Create New button. 
 3. Inject the below payload in Full Name & Contact input field.
